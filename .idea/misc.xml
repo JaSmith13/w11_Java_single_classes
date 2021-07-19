@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="#" />
+        <option value="Created" />
+        <option value="by" />
+        <option value=".ignore" />
+        <option value="support" />
+        <option value="plugin" />
+        <option value="(hsz.mobi)" />
+        <option value="###" />
+        <option value="Java" />
+        <option value="template" />
+        <option value="#" />
+        <option value="Compiled" />
+        <option value="class" />
+        <option value="file" />
+        <option value="*.class" />
+        <option value="#" />
+        <option value="Package" />
+        <option value="Files" />
+        <option value="#" />
+        <option value="*.jar" />
+        <option value="*.war" />
+        <option value="*.nar" />
+        <option value="*.ear" />
+        <option value="*.zip" />
+        <option value="*.tar.gz" />
+        <option value="*.rar" />
+        <option value="#" />
+        <option value="IntelliJ" />
+        <option value=".idea/" />
+        <option value="out/" />
+        <option value="target/" />
+        <option value=".idea_modules/" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
